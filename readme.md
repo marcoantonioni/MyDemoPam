@@ -1,4 +1,1 @@
-Repository Init Content
-=======================
-
-Your project description here.
+Simple PAM demo built using "IBM Business Automation Manager Open Edition v8.0"
